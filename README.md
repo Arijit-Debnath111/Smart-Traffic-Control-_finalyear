@@ -1,0 +1,2 @@
+# Smart-Traffic-Control-_finalyear
+This is a project about smart traffic control system which emphasises to reduce the traffic-jam by simulating the traffic signals,by calculating the density of the vehicles in the road. The images from the CCTV near the traffic pomts are used, from which the input data i.e in form of images are used and is classified using yolov5 pre-trained model. After that by calculating the density from the images we have created a small real time demo of the system by changing the light accordingly using pygame.
